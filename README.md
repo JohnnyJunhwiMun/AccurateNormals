@@ -4,8 +4,8 @@ Bag files can be downloaded from the shared Google Drive folder:
 
 📁 [Google Drive Link](https://drive.google.com/drive/folders/1m8xXoC6dJsAKacj06d-5bL6_e20H10J1?usp=drive_link)
 
-- For the **component** bag file case, the desired angle is **45 degrees**.
-- For the **compressor 4** bag file case, the desired angle should be set to **66 degrees**.  
+- For the **'component'** bag file case, the desired angle is **45 degrees**.
+- For the **'compressor 4'** bag file case, the desired angle should be set to **66 degrees**.  
   → *Note: Filter parameters should also be adjusted accordingly.*
 
 ---
